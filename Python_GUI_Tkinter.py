@@ -112,5 +112,7 @@ if __name__ =="__main__":
 	window = Window(1090,542, "   Анализ закупочных процессов")
 	window.run()
 	
+# Комментарий для изменения файла
+def new_file():
+	pass
 
-C:\Users\dzhamshed.amonov\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\JetBrains\PyCharm Community Edition 2023.2.1
